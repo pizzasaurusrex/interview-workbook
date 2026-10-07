@@ -1,0 +1,22 @@
+# Node
+node_modules/
+coverage/
+*.tsbuildinfo
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# Environment
+.env
+.env.*
+
+# Editor / OS
+.DS_Store
+.idea/
+
+# Claude Code personal settings
+.claude/settings.local.json
